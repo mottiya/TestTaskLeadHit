@@ -1,0 +1,19 @@
+{
+  "_default": {
+    "1": {
+      "name": "str",
+      "fields": {
+        "additionalProp1": "email",
+        "additionalProp2": "phone"
+      }
+    },
+    "2": {
+      "name": "string",
+      "fields": {
+        "additionalProp1": "email",
+        "additionalProp2": "phone",
+        "additionalProp3": "text"
+      }
+    }
+  }
+}
